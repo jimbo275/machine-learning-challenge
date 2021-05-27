@@ -1,0 +1,4 @@
+Model Type,Accuracy
+Base Model,81.465%
+Selected Features Model,81.465%
+Tuned Model,85.126%
